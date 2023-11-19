@@ -33,5 +33,4 @@ auto foo(float val1,float val2)
 //
 //    auto x = foo(0.0f,10.0f);
 //    std::cout << "Lambda value:" << x(0.5f) << std::endl;
-//
 //}
